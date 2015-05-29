@@ -1,0 +1,1 @@
+c:\users\administrator\documents\visual studio 2013\Projects\窗体间传值\窗体间传值\bin\Debug\窗体间传值.exe.config

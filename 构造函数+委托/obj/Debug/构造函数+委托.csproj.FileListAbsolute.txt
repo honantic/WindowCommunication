@@ -1,0 +1,15 @@
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\构造函数+委托\bin\Debug\构造函数+委托.exe.config
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\构造函数+委托\bin\Debug\构造函数+委托.exe
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\构造函数+委托\bin\Debug\构造函数+委托.pdb
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\构造函数+委托\obj\Debug\构造函数+委托.csprojResolveAssemblyReference.cache
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\构造函数+委托\obj\Debug\ChildWindow.baml
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\构造函数+委托\obj\Debug\MainWindow.baml
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\构造函数+委托\obj\Debug\ChildWindow.g.cs
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\构造函数+委托\obj\Debug\MainWindow.g.cs
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\构造函数+委托\obj\Debug\App.g.cs
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\构造函数+委托\obj\Debug\构造函数+委托_MarkupCompile.cache
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\构造函数+委托\obj\Debug\构造函数+委托.g.resources
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\构造函数+委托\obj\Debug\构造函数_委托.Properties.Resources.resources
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\构造函数+委托\obj\Debug\构造函数+委托.csproj.GenerateResource.Cache
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\构造函数+委托\obj\Debug\构造函数+委托.exe
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\构造函数+委托\obj\Debug\构造函数+委托.pdb

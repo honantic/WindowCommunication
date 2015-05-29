@@ -1,0 +1,15 @@
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\公共类的静态字段\bin\Debug\公共类的静态字段.exe.config
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\公共类的静态字段\bin\Debug\公共类的静态字段.exe
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\公共类的静态字段\bin\Debug\公共类的静态字段.pdb
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\公共类的静态字段\obj\Debug\公共类的静态字段.csprojResolveAssemblyReference.cache
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\公共类的静态字段\obj\Debug\ChildWindow.baml
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\公共类的静态字段\obj\Debug\MainWindow.baml
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\公共类的静态字段\obj\Debug\ChildWindow.g.cs
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\公共类的静态字段\obj\Debug\MainWindow.g.cs
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\公共类的静态字段\obj\Debug\App.g.cs
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\公共类的静态字段\obj\Debug\公共类的静态字段_MarkupCompile.cache
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\公共类的静态字段\obj\Debug\公共类的静态字段.g.resources
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\公共类的静态字段\obj\Debug\公共类的静态字段.Properties.Resources.resources
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\公共类的静态字段\obj\Debug\公共类的静态字段.csproj.GenerateResource.Cache
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\公共类的静态字段\obj\Debug\公共类的静态字段.exe
+c:\Users\administrator\documents\visual studio 2013\Projects\窗体间传值\公共类的静态字段\obj\Debug\公共类的静态字段.pdb

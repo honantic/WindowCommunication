@@ -1,0 +1,15 @@
+c:\users\administrator\documents\visual studio 2013\Projects\窗体间传值\窗体间传值\bin\Debug\窗体间传值.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\窗体间传值\窗体间传值\bin\Debug\窗体间传值.exe
+c:\users\administrator\documents\visual studio 2013\Projects\窗体间传值\窗体间传值\bin\Debug\窗体间传值.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\窗体间传值\窗体间传值\obj\Debug\Public字段+ShowDialog.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\窗体间传值\窗体间传值\obj\Debug\ChildWindow.baml
+c:\users\administrator\documents\visual studio 2013\Projects\窗体间传值\窗体间传值\obj\Debug\MainWindow.baml
+c:\users\administrator\documents\visual studio 2013\Projects\窗体间传值\窗体间传值\obj\Debug\ChildWindow.g.cs
+c:\users\administrator\documents\visual studio 2013\Projects\窗体间传值\窗体间传值\obj\Debug\MainWindow.g.cs
+c:\users\administrator\documents\visual studio 2013\Projects\窗体间传值\窗体间传值\obj\Debug\App.g.cs
+c:\users\administrator\documents\visual studio 2013\Projects\窗体间传值\窗体间传值\obj\Debug\窗体间传值_MarkupCompile.cache
+c:\users\administrator\documents\visual studio 2013\Projects\窗体间传值\窗体间传值\obj\Debug\窗体间传值.g.resources
+c:\users\administrator\documents\visual studio 2013\Projects\窗体间传值\窗体间传值\obj\Debug\窗体间传值.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\窗体间传值\窗体间传值\obj\Debug\Public字段+ShowDialog.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\窗体间传值\窗体间传值\obj\Debug\窗体间传值.exe
+c:\users\administrator\documents\visual studio 2013\Projects\窗体间传值\窗体间传值\obj\Debug\窗体间传值.pdb

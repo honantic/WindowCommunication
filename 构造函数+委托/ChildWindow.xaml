@@ -1,0 +1,9 @@
+﻿<Window x:Class="构造函数_委托.ChildWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ChildWindow" Height="300" Width="300"
+        Loaded="Window_Loaded">
+    <Grid>
+        <Button Name="btn_ShowChild" Click="btn_ShowFather_Click" Content="给父窗体传值" VerticalAlignment="Center" HorizontalAlignment="Center"></Button>
+    </Grid>
+</Window>
